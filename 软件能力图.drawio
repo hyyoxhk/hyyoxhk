@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
+  <diagram name="第 1 页" id="japMbIAOzuZkcFbrZrBM">
+    <mxGraphModel dx="868" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VER0p9L-tkisMN6lT24T-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VER0p9L-tkisMN6lT24T-1" target="VER0p9L-tkisMN6lT24T-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VER0p9L-tkisMN6lT24T-1" target="VER0p9L-tkisMN6lT24T-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-40" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VER0p9L-tkisMN6lT24T-1" target="VER0p9L-tkisMN6lT24T-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-41" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VER0p9L-tkisMN6lT24T-1" target="VER0p9L-tkisMN6lT24T-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-42" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="VER0p9L-tkisMN6lT24T-1" target="VER0p9L-tkisMN6lT24T-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-43" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VER0p9L-tkisMN6lT24T-1" target="VER0p9L-tkisMN6lT24T-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-1" value="BRG628驱动软件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-2" value="HDMI转DSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-3" value="HDMI转LVDS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-4" value="HDMI转GVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-5" value="RGB转DSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-6" value="RGB转LVDS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VER0p9L-tkisMN6lT24T-7" value="RGB转GVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
