@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="第 1 页" id="gqqKk3qTcgub9rRtaCZt">
-    <mxGraphModel dx="1678" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,29 +25,29 @@
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-16" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="4dHtgB9EU4_9vMUrs-2n-3" target="4dHtgB9EU4_9vMUrs-2n-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4dHtgB9EU4_9vMUrs-2n-17" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="4dHtgB9EU4_9vMUrs-2n-3" target="4dHtgB9EU4_9vMUrs-2n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-3" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
           <mxGeometry x="720" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-4" value="禅道&lt;br&gt;项目管理平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
-          <mxGeometry x="560" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-5" value="GItlab Server&lt;div&gt;代码管理平台&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
-          <mxGeometry x="720" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-6" value="Bind&lt;div&gt;内网域名解析如软件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
           <mxGeometry x="880" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-7" value="&lt;div&gt;Jenkins Server&lt;/div&gt;自动化构建部署平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
-          <mxGeometry x="880" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="880" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-8" value="内网云盘&lt;div&gt;发布/归档&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
-          <mxGeometry x="1040" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="1040" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-9" value="编译服务器&lt;br&gt;公共编译服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
-          <mxGeometry x="400" y="760" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4dHtgB9EU4_9vMUrs-2n-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.545;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4dHtgB9EU4_9vMUrs-2n-3" target="4dHtgB9EU4_9vMUrs-2n-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="400" y="680" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
