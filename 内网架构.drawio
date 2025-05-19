@@ -44,6 +44,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="iFqaNt7PIBtj8i7AnsgW-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="4dHtgB9EU4_9vMUrs-2n-3" target="iFqaNt7PIBtj8i7AnsgW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-3" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" parent="1" vertex="1">
           <mxGeometry x="720" y="520" width="120" height="80" as="geometry" />
         </mxCell>
@@ -65,8 +68,8 @@
         <mxCell id="4dHtgB9EU4_9vMUrs-2n-9" value="编译服务器&lt;br&gt;公共编译服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" parent="1" vertex="1">
           <mxGeometry x="400" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iFqaNt7PIBtj8i7AnsgW-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
-          <mxGeometry x="880" y="740" width="120" height="80" as="geometry" />
+        <mxCell id="iFqaNt7PIBtj8i7AnsgW-6" value="Keycloak&lt;div&gt;身份认证&lt;/div&gt;&lt;div&gt;管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4672c4, #198cc4);fontColor=#ffffff;strokeColor=light-dark(#4672c4, #51afe7);" vertex="1" parent="1">
+          <mxGeometry x="880" y="680" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
