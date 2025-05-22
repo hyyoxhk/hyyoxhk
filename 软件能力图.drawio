@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="第 1 页" id="japMbIAOzuZkcFbrZrBM">
-    <mxGraphModel dx="1426" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,9 +26,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w4B4ZbAc3VxCVt6JShG3-27" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VER0p9L-tkisMN6lT24T-2" target="w4B4ZbAc3VxCVt6JShG3-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w4B4ZbAc3VxCVt6JShG3-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VER0p9L-tkisMN6lT24T-2" target="w4B4ZbAc3VxCVt6JShG3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VER0p9L-tkisMN6lT24T-2" value="BRG628驱动" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -58,58 +55,55 @@
         <mxCell id="VER0p9L-tkisMN6lT24T-7" value="LCD驱动" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="630" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w4B4ZbAc3VxCVt6JShG3-1" value="HDMI转GVI" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200" y="480" width="40" height="80" as="geometry" />
+        <mxCell id="w4B4ZbAc3VxCVt6JShG3-1" value="核心控制" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="480" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w4B4ZbAc3VxCVt6JShG3-7" value="HDMI转DSI" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="480" width="40" height="80" as="geometry" />
+        <mxCell id="w4B4ZbAc3VxCVt6JShG3-10" value="显示接口输入" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="480" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w4B4ZbAc3VxCVt6JShG3-10" value="HDMI转LVDS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="260" y="480" width="40" height="80" as="geometry" />
+        <mxCell id="w4B4ZbAc3VxCVt6JShG3-11" value="显示接口输出" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="480" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w4B4ZbAc3VxCVt6JShG3-11" value="RGB转DSI" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="480" width="40" height="80" as="geometry" />
+        <mxCell id="w4B4ZbAc3VxCVt6JShG3-12" value="面板控制" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="420" y="480" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w4B4ZbAc3VxCVt6JShG3-12" value="RGB转LVDS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="480" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="w4B4ZbAc3VxCVt6JShG3-13" value="RGB转GVI" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="480" width="40" height="80" as="geometry" />
+        <mxCell id="w4B4ZbAc3VxCVt6JShG3-13" value="系统控制" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360" y="480" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4B4ZbAc3VxCVt6JShG3-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;基础显示控制&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="560" y="480" width="40" height="80" as="geometry" />
+          <mxGeometry x="520" y="480" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4B4ZbAc3VxCVt6JShG3-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;电源管理&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="620" y="480" width="40" height="80" as="geometry" />
+          <mxGeometry x="580" y="480" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4B4ZbAc3VxCVt6JShG3-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;显示区域控制&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="680" y="480" width="40" height="80" as="geometry" />
+          <mxGeometry x="640" y="480" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4B4ZbAc3VxCVt6JShG3-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;数据操作控制&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="740" y="480" width="40" height="80" as="geometry" />
+          <mxGeometry x="700" y="480" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4B4ZbAc3VxCVt6JShG3-19" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;图形显示功能&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="800" y="480" width="40" height="80" as="geometry" />
+          <mxGeometry x="760" y="480" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4B4ZbAc3VxCVt6JShG3-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;参数设置&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="860" y="480" width="40" height="80" as="geometry" />
+          <mxGeometry x="820" y="480" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w4B4ZbAc3VxCVt6JShG3-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OTP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;与环境适应功能&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="920" y="480" width="40" height="80" as="geometry" />
+          <mxGeometry x="880" y="480" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s5idl0Fn4ySrWmzEbjUN-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="s5idl0Fn4ySrWmzEbjUN-3" target="s5idl0Fn4ySrWmzEbjUN-4">
+        <mxCell id="s5idl0Fn4ySrWmzEbjUN-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="s5idl0Fn4ySrWmzEbjUN-3" target="s5idl0Fn4ySrWmzEbjUN-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s5idl0Fn4ySrWmzEbjUN-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="s5idl0Fn4ySrWmzEbjUN-3" target="s5idl0Fn4ySrWmzEbjUN-5">
+        <mxCell id="s5idl0Fn4ySrWmzEbjUN-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="s5idl0Fn4ySrWmzEbjUN-3" target="s5idl0Fn4ySrWmzEbjUN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s5idl0Fn4ySrWmzEbjUN-3" value="嵌入式驱动适配" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="s5idl0Fn4ySrWmzEbjUN-3" value="嵌入式驱动适配" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="858" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s5idl0Fn4ySrWmzEbjUN-4" value="BRG628驱动" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="s5idl0Fn4ySrWmzEbjUN-4" value="BRG628驱动" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="978" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5idl0Fn4ySrWmzEbjUN-5" value="LCD驱动" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="s5idl0Fn4ySrWmzEbjUN-5" value="LCD驱动" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="740" y="978" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
